@@ -1,6 +1,6 @@
 ## FigJam
 
-![Clique para ver](https://i.ibb.co/FKZdRZD/Captura-de-tela-20230206-144752.png)
+![Clique para ver](https://raw.githubusercontent.com/dihnauer/ui-figma-jam/master/src/assets/captura.png)
 
 Este projeto foi desenvolvido como prática de conhecimentos com React.
 
